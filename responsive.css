@@ -1,0 +1,100 @@
+@media screen and (min-width: 360px) and (max-width:640px) {
+    .class_nav1
+{
+    margin-left:10px;
+}
+.class_nav2
+{
+    margin-left:10px;
+}
+.class_nav3
+{
+    margin-left:10px;
+}
+.class_nav4
+{
+    margin-left:10px;
+}
+.class_nav5
+{
+    margin-left:10px;
+}
+.icon
+{
+    margin-left:90px;
+}
+.icon1
+{
+    margin-left:90px;   
+}
+.icon2
+{
+    margin-left:90px;   
+}
+.icon3
+{
+    margin-left:90px;   
+}
+.change
+{
+    margin-left:140px;
+   
+}
+.change1
+{
+    margin-left:140px;
+   
+}
+.change2
+{
+    margin-left:140px;
+   
+}
+.border 
+{
+    outline:1px solid black;
+   object-fit:cover;
+    margin-top:7px;
+    margin-bottom:7px;
+    margin-left:40px;
+    
+}
+.border :hover
+{
+     cursor:pointer;
+}
+.class_text
+{
+    font-size:15px;
+}
+.class_photo
+{
+    margin-left:40px;
+}
+.class_photo1
+{
+    margin-left:40px;
+}
+.class_button
+{
+    margin-left:100px;
+}
+.back2
+{
+    font-size:15px;
+}
+.class_photo2
+{
+    margin-left:40px;
+}
+.class_button1
+{
+    margin-left:70px;
+}
+.class_para
+{
+    font-size:10px;
+    text-align:justify;
+}
+
+}
